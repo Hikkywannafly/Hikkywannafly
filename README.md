@@ -41,9 +41,12 @@ console.log(`Nothing special here`);
 
  <details>
  <summary>See more</summary>
+ 
   ## <h1 align="center"> <img src="https://thumbs.gfycat.com/AlienatedPrestigiousKoi-size_restricted.gif" height="30" width="40"> &nbsp;***Hikkywannafly***
- ## 🌐 Connect with me
   
+  
+ ## 🌐 Connect with me
+ 
 <p align="left">
 <a href="https://twitter.com/tamnguy28327146" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="tamnguy28327146" height="30" width="40" /></a>
 <a href="https://fb.com/Hikkywannafly" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Hikkywannafly" height="30" width="40" /></a>
@@ -59,6 +62,7 @@ console.log(`Nothing special here`);
 
 <br>
 <br>
+
 ## 🎻 **I'm a music addict**
 
 [![Programming Music](https://img.shields.io/badge/Loffi%20Chill-%231DB954.svg?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/5eHUErerg4SbhttZgtGvOT?si=744446ba11de46fc)  [![PPOP Music](https://img.shields.io/badge/Mikki%20Loffi-%231DB954.svg?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/4SYNclFrwAf717XkW02KRT?si=0e87897bef064e07) [![PPOP Music](https://img.shields.io/badge/Japan%20Loffi-%231DB954.svg?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/4SYNclFrwAf717XkW02KRT?si=0e87897bef064e07)
