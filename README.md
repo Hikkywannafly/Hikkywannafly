@@ -1,4 +1,4 @@
-## <h1 align="center"> <img src="https://thumbs.gfycat.com/AlienatedPrestigiousKoi-size_restricted.gif" height="30" width="40"> &nbsp;***Hikkywannafly***
+
 ```javascript
 const info = {
 	fullName: 'Nguyen Chi Tam',
@@ -11,16 +11,7 @@ const info = {
 	email: 'hikkywannafly@duck.com'
 };
 ```
- <br>
  
-<p align="center"> 
-<img src="https://readme-typing-svg.herokuapp.com?size=30&duration=1500&lines=Hello+world!;Ch%C3%A0o+th%E1%BA%BF+gi%E1%BB%9Bi!;%E3%81%93%E3%82%93%E3%81%AB%E3%81%A1%E3%81%AF%E4%B8%96%E7%95%8C!!;Hallo+Welt!;%D0%9F%D1%80%D0%B8%D0%B2%D0%B5%D1%82%2C+%D0%BC%D0%B8%D1%80!;Bonjour+le+monde!;%EC%95%88%EB%85%95%ED%95%98%EC%84%B8%EC%9A%94+%EC%84%B8%EA%B3%84!;I'm+TamNguyen;You+can+call+me+Hikky" alt="animated" />
-</p>
- 
-<p align="center"> <img src="https://github.com/TamNguyenS/TamNguyenS/blob/output/github-contribution-grid-snake.svg" alt="tamnguyens" /> </p>
-
-<br>
-<br>
 	
 			
 	
@@ -50,7 +41,7 @@ console.log(`Nothing special here`);
 
  <details>
  <summary>See more</summary>
-  
+  ## <h1 align="center"> <img src="https://thumbs.gfycat.com/AlienatedPrestigiousKoi-size_restricted.gif" height="30" width="40"> &nbsp;***Hikkywannafly***
  ## 🌐 Connect with me
   
 <p align="left">
@@ -58,7 +49,16 @@ console.log(`Nothing special here`);
 <a href="https://fb.com/Hikkywannafly" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Hikkywannafly" height="30" width="40" /></a>
 <a href="https://discord.gg/https://discord.gg/HKjZkkSU" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/HKjZkkSU" height="30" width="40" /></a>
 </p>
+ <br>
  
+<p align="center"> 
+<img src="https://readme-typing-svg.herokuapp.com?size=30&duration=1500&lines=Hello+world!;Ch%C3%A0o+th%E1%BA%BF+gi%E1%BB%9Bi!;%E3%81%93%E3%82%93%E3%81%AB%E3%81%A1%E3%81%AF%E4%B8%96%E7%95%8C!!;Hallo+Welt!;%D0%9F%D1%80%D0%B8%D0%B2%D0%B5%D1%82%2C+%D0%BC%D0%B8%D1%80!;Bonjour+le+monde!;%EC%95%88%EB%85%95%ED%95%98%EC%84%B8%EC%9A%94+%EC%84%B8%EA%B3%84!;I'm+TamNguyen;You+can+call+me+Hikky" alt="animated" />
+</p>
+ 
+<p align="center"> <img src="https://github.com/TamNguyenS/TamNguyenS/blob/output/github-contribution-grid-snake.svg" alt="tamnguyens" /> </p>
+
+<br>
+<br>
 ## 🎻 **I'm a music addict**
 
 [![Programming Music](https://img.shields.io/badge/Loffi%20Chill-%231DB954.svg?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/5eHUErerg4SbhttZgtGvOT?si=744446ba11de46fc)  [![PPOP Music](https://img.shields.io/badge/Mikki%20Loffi-%231DB954.svg?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/4SYNclFrwAf717XkW02KRT?si=0e87897bef064e07) [![PPOP Music](https://img.shields.io/badge/Japan%20Loffi-%231DB954.svg?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/4SYNclFrwAf717XkW02KRT?si=0e87897bef064e07)
