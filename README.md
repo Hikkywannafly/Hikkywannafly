@@ -15,7 +15,7 @@ const info = {
 	
 			
 	
-##  <img align="center" src="https://media.giphy.com/media/ZEUODEtQiUZWGg6IHR/giphy.gif?cid=790b7611612b195f02b8cf89e87aab10583c781853dd9baa&rid=giphy.gif&ct=s" width="50"> **My skills** 
+##  <img align="center" src="https://media.giphy.com/media/ZEUODEtQiUZWGg6IHR/giphy.gif?cid=790b7611612b195f02b8cf89e87aab10583c781853dd9baa&rid=giphy.gif&ct=s" width="50"> **Technology Stack** 
 
 <br>
 	
