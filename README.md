@@ -7,15 +7,15 @@ const info = {
 	gender: 'male',
 	occupation: 'student',
 	location: 'nowhere',
-	interestedIn: ['csharp','reactjs', 'nextjs', 'nodejs', 'javascript', 'typescript', 'linux'],
-	email: 'hikkywannafly@duck.com'
+	interestedIn: ['csharp','reactjs', 'nextjs', 'nodejs', 'javascript', 'typescript', 'nestjs'],
+	email: 'ggraygon@gmail.com'
 };
 ```
  
 	
 			
 	
-## 🔮 **My skills**
+##  <img align="center" src="https://media.giphy.com/media/ZEUODEtQiUZWGg6IHR/giphy.gif?cid=790b7611612b195f02b8cf89e87aab10583c781853dd9baa&rid=giphy.gif&ct=s" width="50"> **My skills** 
 
 <br>
 	
@@ -37,7 +37,7 @@ console.log(`Nothing special here`);
 <img src="https://media0.giphy.com/media/Vi5ogXQO4mzRsATl5r/giphy.gif?cid=ecf05e47sulbp1tie55pjmeb5d5o6wrrilgbueghy9g7qjgq&rid=giphy.gif&ct=s" width="60px" height="60px" >&nbsp;
  <br>
  
-## 🎧 **Spotify Playing**
+## <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"> **Spotify Playing**
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=iv6cijl1o8ojeu119tjll77ne&cover_image=true&theme=natemoo-re&show_offline=false&bar_color=49e53e&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 
  <br>
@@ -48,7 +48,7 @@ console.log(`Nothing special here`);
   ## <h1 align="center"> <img src="https://thumbs.gfycat.com/AlienatedPrestigiousKoi-size_restricted.gif" height="30" width="40"> &nbsp;***Hikkywannafly***
   
   
- ## 🌐 Connect with me
+ ## 🔮 Reach me on
  
 <p align="left">
 <a href="https://twitter.com/tamnguy28327146" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="tamnguy28327146" height="30" width="40" /></a>
