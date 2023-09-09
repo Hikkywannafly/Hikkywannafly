@@ -13,11 +13,7 @@ const info = {
 ```
  
 ##  <img align="center" src="https://media.giphy.com/media/ZEUODEtQiUZWGg6IHR/giphy.gif?cid=790b7611612b195f02b8cf89e87aab10583c781853dd9baa&rid=giphy.gif&ct=s" width="50"> **Technology Stack** 
-
-```javascript
-console.log(`Nothing special here`);
-```	
-
+	
 <img src="https://camo.githubusercontent.com/ece04e9e6d8e7370a88024f41d544915e01ce71b5457326c08349cc282ccf2d4/68747470733a2f2f6d65646961332e67697068792e636f6d2f6d656469612f6c6e377a32655772696951416c6c6656636e2f323030772e77656270" width="55px" height="55px" >&nbsp;
 <img src="https://media.giphy.com/media/fsEaZldNC8A1PJ3mwp/giphy.gif" width="55px" height="55px" >&nbsp;
 <img src="https://media.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif" width="55px" height="55px" >&nbsp;
