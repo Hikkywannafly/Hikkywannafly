@@ -13,8 +13,8 @@ const info = {
 ```
 
 ## <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"> **Spotify Playing**
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=iv6cijl1o8ojeu119tjll77ne&cover_image=true&theme=natemoo-re&show_offline=false&bar_color=49e53e&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
-https://6klabs.com/widget/spotify/141d27f4339dd4938983212f350587ae7f631c4f1d387f3fd1dd710c782c4ea1
+[![spotify-github-profile]([https://spotify-github-profile.vercel.app/api/view?uid=iv6cijl1o8ojeu119tjll77ne&cover_image=true&theme=natemoo-re&show_offline=false&bar_color=49e53e&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile](https://6klabs.com/widget/spotify/141d27f4339dd4938983212f350587ae7f631c4f1d387f3fd1dd710c782c4ea1))
+
 ![status](https://github.com/hikkywannafly/github-stats/blob/master/generated/overview.svg#gh-dark-mode-only)
 ![languages-all](https://github.com/hikkywannafly/github-stats/blob/master/generated/languages.svg#gh-dark-mode-only)
 <!-- ![stats](https://github-readme-stats.vercel.app/api?username=hikkywannafly&show_icons=true&theme=highcontrast&hide_border=true) -->
