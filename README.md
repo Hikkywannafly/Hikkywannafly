@@ -13,7 +13,7 @@ const info = {
 ```
 
 ## <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"> **Spotify Playing**
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=iv6cijl1o8ojeu119tjll77ne&cover_image=true&theme=natemoo-re&show_offline=false&bar_color=49e53e&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=iv6cijl1o8ojeu119tjll77ne&cover_image=false&theme=default&show_offline=true&background_color=280606&interchange=false&bar_color=b14ea4&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=iv6cijl1o8ojeu119tjll77ne&redirect=true)
 
 ![status](https://github.com/hikkywannafly/github-stats/blob/master/generated/overview.svg#gh-dark-mode-only)
 ![languages-all](https://github.com/hikkywannafly/github-stats/blob/master/generated/languages.svg#gh-dark-mode-only)
