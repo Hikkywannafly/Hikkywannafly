@@ -1,10 +1,9 @@
-<!-- 🌸 Moe Counter -->
+
+
 <p align="center">
   <img src="https://moe-counter.glitch.me/get/@hikkywannafly?theme=rule34" alt="profile counter" />
-	<img src="https://media1.tenor.com/m/6QFAT5fARsIAAAAd/nazuna-nanakusa-call-of-the-night.gif" alt="<3"  width="30%"  />
+	
 </p>
-
-
 
 
 ```javascript
@@ -21,7 +20,7 @@ const info = {
 ```
 
 
-  
+
 ## <p align="center"><img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="36"> <b>Spotify & Discord</b></p>
 
 <p align="center"> 
