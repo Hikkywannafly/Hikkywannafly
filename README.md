@@ -1,29 +1,37 @@
+<!-- 🌸 Moe Counter -->
+<p align="center">
+  <img src="https://moe-counter.glitch.me/get/@hikkywannafly?theme=rule34" alt="profile counter" />
+</p>
 
 ```javascript
 const info = {
-	fullName: 'Nguyen Chi Tam',
-	nickname: 'Hikkywanafly',
-	age: 'secret',
-	gender: 'male',
-	occupation: 'student',
-	location: 'nowhere',
-	interestedIn: ['csharp','reactjs', 'nextjs', 'nodejs', 'javascript', 'typescript', 'nestjs'],
-	email: 'ggraygon@gmail.com'
+  fullName: 'Nguyen Chi Tam',
+  nickname: 'Hikkywannafly',
+  age: 'secret',
+  gender: 'male',
+  occupation: 'student',
+  location: 'nowhere',
+  interestedIn: ['csharp','reactjs', 'nextjs', 'nodejs', 'javascript', 'typescript', 'nestjs'],
+  email: 'ggraygon@gmail.com'
 };
 ```
 
-## <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"> **Spotify Playing**
+## <p align="center"><img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="36"> <b>Spotify & Discord</b></p>
+<p align="center"> 
+	<!-- Spotify --> 
+	<a href="https://spotify-github-profile.kittinanx.com/api/view?uid=iv6cijl1o8ojeu119tjll77ne&redirect=true"> 
+		<img src="https://spotify-github-profile.kittinanx.com/api/view?uid=iv6cijl1o8ojeu119tjll77ne&cover_image=true&theme=natemoo-re&show_offline=true&background_color=0d0b1e&interchange=false&bar_color=e98eff&bar_color_cover=true" alt="Spotify Profile" width="420" /> </a>
+	&nbsp;&nbsp;&nbsp; 
+	<!-- Discord -->
+	<a href="https://discord.com/users/680719551830556688">
+		<img src="https://lanyard.cnrad.dev/api/680719551830556688?theme=dark&showDisplayName=true&bg=0d0b1e&borderRadius=12px" alt="Discord Presence" width="420" /> 
+	</a>
+</p>
 
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=iv6cijl1o8ojeu119tjll77ne&cover_image=false&theme=default&show_offline=true&background_color=280606&interchange=false&bar_color=b14ea4&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=iv6cijl1o8ojeu119tjll77ne&redirect=true)
-[![Discord Presence](https://lanyard.cnrad.dev/api/680719551830556688?theme=dark&showDisplayName=true&bg=31042b&borderRadius=070918)](https://discord.com/users/680719551830556688)
+## <p align="center"><img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="36"> <b>Github Stats</b></p>
 
-![status](https://github.com/hikkywannafly/github-stats/blob/master/generated/overview.svg#gh-dark-mode-only)
-![languages-all](https://github.com/hikkywannafly/github-stats/blob/master/generated/languages.svg#gh-dark-mode-only)
-<!-- ![stats](https://github-readme-stats.vercel.app/api?username=hikkywannafly&show_icons=true&theme=highcontrast&hide_border=true) -->
-<!-- ![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hikkywannafly&layout=compact&theme=highcontrast&hide_border=true) -->
-<!-- ![top](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hikkywannafly&theme=radical) -->
-<!-- ![rank](https://github-readme-streak-stats.herokuapp.com/?user=hikkywannafly&theme=yellowdark&hide_border=true)
-![activity](https://activity-graph.herokuapp.com/graph?username=hikkywannafly&bg_color=000000&color=D9D9D9&line=FCFF00&point=FFFFFF&hide_border=true) -->
-<!-- ![trophy](https://github-profile-trophy.vercel.app/?username=hikkywannafly&row=2&column=3&theme=dark_lover) -->
-
- 
+<p align="center">
+	<img src="https://github.com/hikkywannafly/github-stats/blob/master/generated/overview.svg#gh-dark-mode-only" alt="status" width="420" /> &nbsp;&nbsp;&nbsp;
+	<img src="https://github.com/hikkywannafly/github-stats/blob/master/generated/languages.svg#gh-dark-mode-only" alt="languages" width="420" />
+</p>
+ <p align="center"> <sub> ```
