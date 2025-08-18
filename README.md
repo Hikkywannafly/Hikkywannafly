@@ -21,7 +21,7 @@ const info = {
 ### <p><img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"> <b>Spotify & Discord</b></p>
 
 <div align="center" style="display: flex; gap: 10px; justify-content: center; flex-wrap: wrap;">
-  <img src="https://lanyard.kyrie25.dev/api/680719551830556688?imgStyle=circle&animatedDecoration=true&hideProfile=false&showDisplayName=true&showBanner=animated&bannerFilter=blur(2px)%20brightness(0.8)&waveColor=transparent&gradient=7E37F9-B48EF7-E568C4&waveSpotifyColor=transparent&borderRadius=20px&hideStatus=true" />
+  <img src="https://lanyard.kyrie25.dev/api/680719551830556688?imgStyle=circle&animatedDecoration=true&hideProfile=false&showBanner=animated&bannerFilter=blur(5px)%20brightness(0.2)%20contrast(1.2)&gradient=6a11cb-2575fc&waveColor=transparent&waveSpotifyColor=transparent&borderRadius=20px&hideNameplate=true&hideClan=true" width="420" />
   <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=iv6cijl1o8ojeu119tjll77ne&cover_image=false&theme=default&show_offline=true&background_color=280606&interchange=false&bar_color=b14ea4&bar_color_cover=true" width="420"/>
 </div>
 
