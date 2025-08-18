@@ -21,8 +21,9 @@ const info = {
 ### <p><img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"> <b>Spotify & Discord</b></p>
 
 <div align="center" style="display: flex; gap: 10px; justify-content: center; flex-wrap: wrap;">
-  <img src="https://lanyard.kyrie25.dev/api/680719551830556688?imgStyle=circle&animatedDecoration=true&hideProfile=false&showBanner=animated&bannerFilter=blur(5px)%20brightness(0.2)%20contrast(1.2)&gradient=6a11cb-2575fc&waveColor=transparent&waveSpotifyColor=transparent&borderRadius=20px&hideNameplate=true&hideClan=true"  />
+	<img src="https://lanyard.kyrie25.dev/api/680719551830556688?imgStyle=circle&animatedDecoration=true&hideProfile=false&showBanner=animated&bannerFilter=blur(5px)%20brightness(0.2)%20contrast(1.2)&gradient=6a11cb-2575fc&waveColor=transparent&waveSpotifyColor=transparent&borderRadius=20px&hideNameplate=true&hideClan=true" alt=":3" />
 <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=iv6cijl1o8ojeu119tjll77ne&cover_image=false&theme=default&show_offline=true&background_color=0d0d0d&interchange=false&bar_color=6a11cb&bar_color_cover=true" width="420"/>
+
 </div>
 
 ### <p><img src="https://media.giphy.com/media/SSWmGVbh7ctgxZavhc/giphy.gif" width="50"> <b>Github Stats</b></p>
