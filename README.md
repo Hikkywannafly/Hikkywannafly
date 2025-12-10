@@ -1,7 +1,9 @@
- <img align="right" src="https://media1.tenor.com/m/6QFAT5fARsIAAAAd/nazuna-nanakusa-call-of-the-night.gif" width="250"> 
-<p align="center">
+ <!--<img align="right" src="https://media1.tenor.com/m/6QFAT5fARsIAAAAd/nazuna-nanakusa-call-of-the-night.gif" width="250"> 
+
+-->
+ <p align="center">
   <img src="https://moe-counter.glitch.me/get/@hikkywannafly?theme=rule34" alt="profile counter" />
-</p>
+</p> 
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me  
 
