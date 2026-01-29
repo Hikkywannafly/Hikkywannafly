@@ -2,7 +2,7 @@
 
 -->
  <p align="center">
-  <img src="https://moe-counter.glitch.me/get/@hikkywannafly?theme=rule34" alt="profile counter" />
+  <img src="https://count.getloli.com/get/@hikkywannafly?theme=rule34" alt="profile counter" />
 </p> 
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me  
