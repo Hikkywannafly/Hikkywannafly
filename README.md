@@ -10,7 +10,7 @@
  
 ```javascript
 const info = {
-  fullName: 'Nguyen Chi Tam',
+  fullName: 'alexjones',
   nickname: 'Hikkywannafly',
   pronouns: "he" | "him",
   occupation: 'student',
